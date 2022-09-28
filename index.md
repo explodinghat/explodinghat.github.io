@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+# explodinghat's blog
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to explodinghat's blog. There's not much here yet, but one day there will be lots.
