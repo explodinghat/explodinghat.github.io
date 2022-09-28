@@ -1,12 +1,12 @@
 title: "explodinghat's blog"
 author: "Matt Warren"
-description: "Cloud and Security how-to's, documentation and musings" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Cloud how-tos and musings" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "github@mattwarren.co.uk"
 #twitter_username: "twitteruser"
-github_username: "githubuser"
+github_username: "explodinghat"
 linkedin_username: "https://www.linkedin.com/in/mattwarren4/"
 #facebook_username: username
 #flickr_username: username
