@@ -12,7 +12,7 @@ The Azure Cloud Shell will automatically authenticate to Azure's Resource Manage
 
 ## Tools, tools, tools
 
-The absolute 100% most incredible part of the Azure Cloud Shell - the very reason for this post - is the sheer number of tools available from the get-go. To list a few, you have Terraform, Ansible, Git, Pip, MySQL client, Exchange Online (via Powershell) and a whole bunch more. It's almost a skinny Linux machine running in Azure for you to use for a variety of cloud-related administrative tasks - with the advantage of massively reduced complexity for networking opposed to a cloud-based or on-prem VM. 
+The absolute 100% most incredible part of the Azure Cloud Shell - the very reason for this post - is the sheer number of tools available from the get-go. To list a few, you have Terraform, Ansible, Git, Python, Pip, MySQL client, Exchange Online (via Powershell) and a whole bunch more. It's almost a skinny Linux machine running in Azure for you to use for a variety of cloud-related administrative tasks - with the advantage of massively reduced complexity for networking opposed to a cloud-based or on-prem VM. 
 
 You even get a really slimmed-down inbuilt version of Visual Studio Code which can be launched by either clicking the '{}' icon or typing `code .`
 
