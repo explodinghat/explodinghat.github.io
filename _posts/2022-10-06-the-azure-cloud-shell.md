@@ -16,7 +16,7 @@ The indisputable most incredible part of the Azure Cloud Shell - the very reason
 
 You even get a really slimmed-down inbuilt version of Visual Studio Code which can be launched by either clicking the '{}' icon or typing `code .`
 
-![Azure Cloud Shell Code](__media/code-cloud-shell.png)
+![Azure Cloud Shell Code](https://blogblobmedia.blob.core.windows.net/blogblob/code-cloud-shell.png)
 
 ## File storage
 
