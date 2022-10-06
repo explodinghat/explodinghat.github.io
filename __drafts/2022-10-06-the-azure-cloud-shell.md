@@ -8,13 +8,15 @@ As per the [official documentation](https://learn.microsoft.com/en-us/azure/clou
 
 ## Inline authentication
 
-The Azure Cloud Shell will automatically authenticate to Azure's Resource Manager using your logged-in account, unless you specifically throw another account at it. This is both handy for being able to 'dive straight in' and start firing over commands to control and manipulate your Azure environment (be careful here!) and is also much more rapid than downloading, installing and authenticating to the Azure CLI on your preferred Windows, Mac or Linux PC. 
+The Azure Cloud Shell will automatically authenticate to Azure Resource Manager using your logged-in account, unless you specifically throw another account at it. This is both handy for being able to 'dive straight in' and start firing off commands to control and manipulate your Azure environment (be careful here!) and is also much more rapid than downloading, installing and authenticating to the Azure CLI on your preferred Windows, Mac or Linux PC. 
 
 ## Tools, tools, tools
 
-The absolute 100% most incredible part of the Azure Cloud Shell - the very reason for this post - is the sheer number of tools available from the get-go. To list a few, you have Terraform, Ansible, Git, Python, Pip, MySQL client, Exchange Online (via Powershell) and a whole bunch more. It's almost a skinny Linux machine running in Azure for you to use for a variety of cloud-related administrative tasks - with the advantage of massively reduced complexity for networking opposed to a cloud-based or on-prem VM. 
+The indisputable most incredible part of the Azure Cloud Shell - the very reason for this post - is the sheer number of tools available from the get-go. You have Terraform, Ansible, Git, Python, Pip, MySQL client, Exchange Online (via Powershell) and a whole bunch more. It's almost a skinny Linux machine running in Azure for you to use for a variety of cloud-related administrative tasks - with the advantage of massively reduced networking complexity opposed to a cloud-based or on-prem VM. 
 
 You even get a really slimmed-down inbuilt version of Visual Studio Code which can be launched by either clicking the '{}' icon or typing `code .`
+
+![Azure Cloud Shell Code](__media/code-cloud-shell.png | width 600)
 
 ## File storage
 
