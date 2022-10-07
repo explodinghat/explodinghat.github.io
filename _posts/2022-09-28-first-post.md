@@ -32,7 +32,7 @@ It would be nuts to set up a cloud tutorial/ how-to blog without adding a simple
 - Enter your chosen lab name and select your preferred location
 - Select 'no' for 'Public Environments'
 - Click the 'Auto-shutdown' tab
-![DevTest Labs shutdown policies]
+![DevTest Labs shutdown policies](https://blogblobmedia.blob.core.windows.net/blogblob/Screenshot 2022-09-28 at 16.59.04.png)
 - Turn 'enabled' to 'on' and select a preferred shutdown time. You can also send an alert to a webhook or email address before the VM is switched off to avoid losing unsaved work.
 - Click the 'Review and create' tab and then click 'create'
 
