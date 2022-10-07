@@ -14,7 +14,7 @@ It would be nuts to set up a cloud tutorial/ how-to blog without adding a simple
 
 #### Sign up for Azure Account
 
-- Navigate to https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go/
+- Navigate to [here](https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go/)
 - Click 'free account'
 - Click 'start free'
 - If you have an existing Microsoft/ Windows live/ Outlook account that has _never_ previously been used for Azure, you can sign straight in. Otherwise, click the link next to 'No account? Create one!'
