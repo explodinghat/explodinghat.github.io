@@ -1,2 +1,5 @@
 ﻿_site
 .DS_Store
+.python_packages
+__pycache__
+.venv
